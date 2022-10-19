@@ -51,10 +51,6 @@
 			"Enabled": false
 		},
 		{
-			"Name": "AvfMedia",
-			"Enabled": false
-		},
-		{
 			"Name": "Bridge",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -62,6 +58,10 @@
 				"Mac",
 				"Linux"
 			]
+		},
+		{
+			"Name": "AvfMedia",
+			"Enabled": false
 		}
 	]
 }
